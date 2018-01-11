@@ -31,3 +31,6 @@
 [submodule "blocks/join"]
 	path = blocks/join
 	url = git://github.com/nio-blocks/join.git
+[submodule "blocks/http_requests"]
+	path = blocks/http_requests
+	url = git@github.com:nio-blocks/http_requests.git
